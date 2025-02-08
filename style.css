@@ -579,7 +579,7 @@ form textarea::placeholder{
 @media (max-width:991px) {
 
  .home-img img {
-        width: 35vw;
+        width: 50vw;
         margin-left: 5rem;
         margin-top: -10rem;
     }
